@@ -1,0 +1,6 @@
+{
+    "apiConfigPath": "./src/config/apis-url.ts",
+    "outputPath": "./src/config/api-type.ts",
+    "swaggerDocUrl": "https://apidoc.qa.ym.qq.com/swagger/lotus/trade/mpg/v2/api-docs?group=lotus-trade-miniprogram",
+    "tsDocPath": "./src/config/api-type-ori.ts"
+}

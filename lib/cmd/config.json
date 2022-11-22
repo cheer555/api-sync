@@ -1,0 +1,4 @@
+{
+    "outputDir": "./src/config/transfromOutput.ts",
+    "apiConfigDir": "./src/config/apis-url.ts"
+}
